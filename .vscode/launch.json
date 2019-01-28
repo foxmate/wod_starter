@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoApplication",
+            "request": "launch",
+            "mainClass": "com.wod.wod_starter.DemoApplication",
+            "projectName": "wod_starter"
+        }
+    ]
+}
